@@ -62,10 +62,7 @@
     "build": "vite build",
     "start-server": "node server/index.js"
   },
-  "functions": {
-    "nodeVersion": "20.x"
-  },
   "engines": {
-  "node": "20.x"
+    "node": "20.x"
   }
 }
